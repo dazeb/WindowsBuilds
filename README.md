@@ -11,7 +11,15 @@ Credit to @memstechtips https://github.com/memstechtips/UnattendedWinstall
 
 `autouunattend-memtech.xml` - @memtech's minimal build, most things removed, includes ChrisTitusTech tool to install apps. Great minimal iso.  
 
+# Instructions
 
-Make sure to rename the file to `autounattend.xml`.
+Download the .xml you prefer.  
 
-Add  `autounattend.xml` to genuine Windows .iso file.
+Make sure to rename the file to `autounattend.xml`.  
+
+Add  `autounattend.xml` to genuine Windows .iso file.  
+
+Start the Windows install and watch the magic.  
+
+Check here for more info. Memtech's YouTube tutorial. 
+https://www.youtube.com/watch?v=JUTdRZNqODY
